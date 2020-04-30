@@ -15,7 +15,8 @@ npx sequelize migration:create --name=create-example
 npx sequelize db:migrate
 ```
 - Documentation for other types of migrations (queryInterface): https://sequelize.org/v5/class/lib/query-interface.js~QueryInterface.html
--- Obs.: change the 'await' to 'return'
+
+_Obs.: change the 'await' to 'return'_
 
 ## Config
 
