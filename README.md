@@ -16,7 +16,7 @@ npx sequelize db:migrate
 ```
 - Documentation for other types of migrations (queryInterface): https://sequelize.org/v5/class/lib/query-interface.js~QueryInterface.html
 
-_Obs.: change the 'await' to 'return'_
+_Obs.: exchange the 'await' for the 'return' in the code_
 
 ## Config
 
