@@ -1,3 +1,4 @@
+_API created by João Mozelli Neto - joaomozelli@hotmail.com_
 # Settings
 
 ## Sequelize
