@@ -1,0 +1,33 @@
+{
+  "name": "init-project-node-js-express-mysql",
+  "version": "1.0.0",
+  "description": "Basis for starting projects with nodejs, express and mysql coding in javascript",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.br/mozelli/init-project-node-js-express-mysql"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "express",
+    "javascript"
+  ],
+  "author": "Joao Mozelli Neto",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "sequelize-cli": "^5.5.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.0.3",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.7"
+  }
+}
